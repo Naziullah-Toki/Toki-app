@@ -1,0 +1,6 @@
+{
+  "name": "LeadOutfy AI Pro",
+  "description": "An interactive simulation of LeadOutfy AI Pro, a Google Maps lead scraper and automated outreach Chrome extension. Search niches, scrape business details, and simulate email and WhatsApp automation with real-time logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
